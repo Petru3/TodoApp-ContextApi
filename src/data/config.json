@@ -1,0 +1,20 @@
+{
+    "todo_list": [
+      {
+        "id": 1,
+        "task": "Buy groceries",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "task": "Read a book",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "task": "Exercise for 30 minutes",
+        "completed": false
+      }
+    ]
+  }
+  
